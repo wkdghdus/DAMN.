@@ -41,7 +41,7 @@ function App() {
 
         {/* BLOOD text with a different speed */}
         <ParallaxLayer
-          offset={1.02}
+          offset={1.02} 
           speed={0}
           style={{ display: 'flex', justifyContent: 'center', zIndex: 3 }}
         >
